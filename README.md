@@ -15,7 +15,7 @@ Remove Doctype HTML tag like this
 <!DOCTYPE html
     PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
 ```
-1. It doesnt work with stype/script tags & inline css, To make it work need a little adjustment
+It doesnt work with stype/script tags & inline css, To make it work need a little adjustment
 
 ### Only work with html markup 
 
