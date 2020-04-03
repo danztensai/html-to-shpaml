@@ -8,15 +8,16 @@ I wrote this because:
 2. I use `shpaml` in my projects, and I will like to keep my source code in [shpaml] only
 3. I need to convert long html code to be used in my `shpaml` files
 
-##Precautions
+## Precautions
 Its only Work on python 3.7
 Remove Doctype HTML tag like this
 ```
 <!DOCTYPE html
     PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
 ```
-It doesnt work with stype/script tags , Only work with html markup 
+1. It doesnt work with stype/script tags & inline css, To make it work need a little adjustment
 
+### Only work with html markup 
 
 ## To use
 ```
